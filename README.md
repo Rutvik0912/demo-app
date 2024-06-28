@@ -18,5 +18,5 @@ You can watch a video demo of the application [here](https://www.loom.com/share/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/product-store.git
+   git clone https://github.com/Rutvik0912/demo-app.git
    cd product-store
