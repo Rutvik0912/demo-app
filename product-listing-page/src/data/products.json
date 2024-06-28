@@ -1,0 +1,202 @@
+[
+    {
+      "id": 1,
+      "name": "Awesome Lamp",
+      "description": "Lighting",
+      "category": "lighting",
+      "price": 40,
+      "brand": "Poliform",
+      "inStock": true,
+      "image": "/assets/lamp.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cool Flower",
+      "description": "Decoration",
+      "category": "decoration",
+      "price": 50,
+      "brand": "Molteni & C",
+      "inStock": true,
+      "image": "/assets/flowers.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cozy Sofa",
+      "description": "Furniture",
+      "category": "furniture",
+      "price": 350,
+      "brand": "B&B Italia",
+      "inStock": false,
+      "image": "/assets/sofa.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Awesome Candle",
+      "description": "Lighting",
+      "category": "lighting",
+      "price": 15,
+      "brand": "Poliform",
+      "inStock": true,
+      "image": "/assets/candle.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fancy Chair",
+      "description": "Furniture",
+      "category": "furniture",
+      "price": 70,
+      "brand": "Kartell",
+      "inStock": true,
+      "image": "/assets/chair.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chinese Teapot",
+      "description": "Decoration",
+      "category": "decoration",
+      "price": 50,
+      "brand": "Molteni & C",
+      "inStock": false,
+      "image": "/assets/teapot.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Stylish Table",
+      "description": "Furniture",
+      "category": "furniture",
+      "price": 200,
+      "brand": "B&B Italia",
+      "inStock": true,
+      "image": "/assets/table.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Modern Clock",
+      "description": "Decoration",
+      "category": "decoration",
+      "price": 80,
+      "brand": "Molteni & C",
+      "inStock": true,
+      "image": "/assets/clock.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Elegant Vase",
+      "description": "Decoration",
+      "category": "decoration",
+      "price": 60,
+      "brand": "Kartell",
+      "inStock": true,
+      "image": "/assets/vase.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mirror",
+      "description": "Decoration",
+      "category": "decoration",
+      "price": 120,
+      "brand": "Poliform",
+      "inStock": false,
+      "image": "/assets/mirror.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Cozy Rug",
+      "description": "Furniture",
+      "category": "furniture",
+      "price": 100,
+      "brand": "B&B Italia",
+      "inStock": true,
+      "image": "/assets/rug.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Modern Lamp",
+      "description": "Lighting",
+      "category": "lighting",
+      "price": 90,
+      "brand": "Kartell",
+      "inStock": true,
+      "image": "/assets/modernlamp.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Decorative Art",
+      "description": "Decoration",
+      "category": "decoration",
+      "price": 150,
+      "brand": "Molteni & C",
+      "inStock": false,
+      "image": "/assets/art.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Comfortable Bed",
+      "description": "Furniture",
+      "category": "furniture",
+      "price": 400,
+      "brand": "B&B Italia",
+      "inStock": true,
+      "image": "/assets/bed.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Stylish Bookshelf",
+      "description": "Furniture",
+      "category": "furniture",
+      "price": 300,
+      "brand": "Poliform",
+      "inStock": true,
+      "image": "/assets/bookshelf.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Toy Car",
+      "description": "Toys",
+      "category": "toys",
+      "price": 20,
+      "brand": "Hot Wheels",
+      "inStock": true,
+      "image": "/assets/toycar.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Rubber Duck",
+      "description": "Bath & Shower",
+      "category": "bath & shower",
+      "price": 10,
+      "brand": "Duckies",
+      "inStock": true,
+      "image": "/assets/rubberduck.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Building Blocks",
+      "description": "Building",
+      "category": "building",
+      "price": 30,
+      "brand": "Lego",
+      "inStock": true,
+      "image": "/assets/buildingblocks.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Toy Train",
+      "description": "Toys",
+      "category": "toys",
+      "price": 50,
+      "brand": "Fisher-Price",
+      "inStock": false,
+      "image": "/assets/toytrain.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Bubble Bath",
+      "description": "Bath & Shower",
+      "category": "bath & shower",
+      "price": 15,
+      "brand": "Lush",
+      "inStock": true,
+      "image": "/assets/bubblebath.jpg"
+    }
+  ]  
